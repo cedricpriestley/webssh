@@ -2,12 +2,12 @@
   "dependencies": {
     "express": "^4.15.4",
     "node-pty": "^0.7.1",
-    "ws": "^5.2.2",
+    "ws": "^6.1.2",
     "xterm": "^3.5.1"
   },
   "devDependencies": {
     "husky": "^1.0.0-rc.13",
-    "lint-staged": "^7.2.0",
+    "lint-staged": "^8.1.0",
     "prettier-eslint-cli": "^4.7.1"
   },
   "husky": {
