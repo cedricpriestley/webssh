@@ -1,4 +1,7 @@
 # webssh
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/dews/webssh.svg)](https://greenkeeper.io/)
+
 xterm + node-pty + websocket
 
 ## Installation   
